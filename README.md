@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, it's Tingyi!
 
 <!--
 **TingyiZhang/TingyiZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🤔 I’m looking for...jobs
+- 🔭 I’m currently working on some awesome Java and Python projects
+- 🌱 I’m currently learning Golang and distributed systems
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TingyiZhang&hide=jupyter%20notebook)](https://github.com/TingyiZhang/github-readme-stats)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TingyiZhang&count_private=true)
