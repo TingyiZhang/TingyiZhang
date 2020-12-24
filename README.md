@@ -1,4 +1,4 @@
-### Hi there, it's Tingyi!
+### Hi there, it's Tingyi 张庭怿!
 
 <!--
 **TingyiZhang/TingyiZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
