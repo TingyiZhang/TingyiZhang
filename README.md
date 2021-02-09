@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TingyiZhang&layout=compact&hide=jupyter%20notebook)](https://github.com/TingyiZhang/github-readme-stats)
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TingyiZhang&count_private=true&show_icons=true)
